@@ -1,0 +1,12 @@
+name: KodlaFlying
+version: ${project.version}
+main: fr.kozen.skyrama.Skyrama
+api-version: 1.21
+authors: [ Mirmir ]
+description: dunyanin en iyi plugini
+depends:
+  - WorldEdit
+commands:
+  ada:
+    description: ada yönetim komutu
+    aliases:

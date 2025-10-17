@@ -1,0 +1,43 @@
+# OYUNCU YETKİSİ YOK
+player-noperm: §c Yetkiniz yok!
+
+# OYUNCU ÇEVRİMDIŞI VEYA ADASI YOK
+player-offline: §c{0} çevrimdışı.
+player-offline-island: §c{0} çevrimdışı veya adası yok.
+
+# ADA DAVETİ
+player-already-invited: §c{0} zaten {1}'i davet etti.
+player-already-on-island: §c{0} zaten adanızda.
+
+# ADA OLUŞTURMA
+player-already-have-island: §c Zaten bir adanız var!
+
+# ADA EVİ
+player-no-island: §c Adanız yok!
+player-teleport-island: §a Adaya ışınlanıyor...
+
+# ADA DAVETİ KABUL
+player-join-island: §a{0} adanıza katıldı!
+player-join-island-success: §a{0}'nin adasına başarıyla katıldınız!
+player-no-invited: §c{0} sizi adasına hiç davet etmedi.
+
+# ADA DAVETİ REDDET
+player-decline-invitation: §c{0}'nin ada davetini reddettiniz.
+player-decline-your-invitation: §c{0} davetinizi reddetti.
+
+# ADA DOĞUM NOKTASI
+setspawn-out-island: §c Doğum noktanızı adanızın dışına koyamazsınız.
+setspawn-success: §a Yeni doğum noktası başarıyla ayarlandı!
+
+# ADA ZİYARET
+player-visit-island: §a{0}'nin adasına ışınlanıyor...
+
+player-no-owner: §c Bu adanın sahibi değilsiniz!
+player-leave-island: §a Adayı başarıyla terk ettiniz!
+
+# BAŞKA ADADA BLOK KIRMA
+player-break: §c Başka oyuncuların adasında blok kıramazsınız
+player-place: §c Başka oyuncuların adasında blok koyamazsınız.
+
+# GENEL
+invalid-syntax: §c Hata.

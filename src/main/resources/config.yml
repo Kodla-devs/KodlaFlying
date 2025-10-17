@@ -1,0 +1,28 @@
+mysql:
+  host: localhost
+  port: 3306
+  name: skyrama
+  user: root
+  password:
+
+general:
+  locale: en_US
+  world: skyblock_dunya
+
+island:
+  schematic: island
+  distance: 256
+  extensionLevel:
+    0: 65
+    1: 129
+    2: 257
+    3: 513
+
+  pvpEnabled: true
+
+
+  buildEnabled: true
+
+  spawnIslandLogin: true
+
+  respawnIsland: true
